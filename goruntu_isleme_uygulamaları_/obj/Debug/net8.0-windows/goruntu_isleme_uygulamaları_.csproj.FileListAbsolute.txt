@@ -1,0 +1,16 @@
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\bin\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.exe
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\bin\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.deps.json
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\bin\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.runtimeconfig.json
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\bin\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.dll
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\bin\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.pdb
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.Form1.resources
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.csproj.GenerateResource.cache
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.AssemblyInfoInputs.cache
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.AssemblyInfo.cs
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.csproj.CoreCompileInputs.cache
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.dll
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\refint\goruntu_isleme_uygulamaları_.dll
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.pdb
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\goruntu_isleme_uygulamaları_.genruntimeconfig.cache
+C:\Users\esrah\OneDrive\Masaüstü\goruntu_isleme_uygulamaları_\obj\Debug\net8.0-windows\ref\goruntu_isleme_uygulamaları_.dll
